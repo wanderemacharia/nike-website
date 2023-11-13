@@ -1,4 +1,4 @@
-import {Hero, PopularProducts, SuperQuality, Services, SpecialOffers, CustomerReviews, Subscribe, Footer} from './sections';
+import { Hero, PopularProducts, SuperQuality, Services, SpecialOffers, CustomerReviews, Subscribe, Footer } from './sections';
 import Nav from './components/Nav';
 
 

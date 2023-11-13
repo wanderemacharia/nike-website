@@ -1,5 +1,5 @@
 import { arrowRight } from '../assets/icons';
-import { Button } from '../components/Button';
+import  Button from '../components/Button';
 import { statistics } from '../constants/index';
 
 
@@ -33,4 +33,4 @@ const Hero = () => {
   )
 }
 
-export default Hero
+export default Hero;
